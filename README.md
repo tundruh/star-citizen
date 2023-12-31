@@ -55,4 +55,4 @@ Current as of LIVE 3.22.
 
 
 # Credit
-  > Choopa over at RSI Community Hub for posting SC Launch Configurator ([2.0 Update linked here](https://robertsspaceindustries.com/community-hub/post/sc-launch-configurator-2-0-FvezSlFFahD5U))
+- Choopa over at RSI Community Hub for posting SC Launch Configurator ([2.0 Update linked here](https://robertsspaceindustries.com/community-hub/post/sc-launch-configurator-2-0-FvezSlFFahD5U))
