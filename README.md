@@ -6,16 +6,14 @@ Most binds are left as default, with a few changes to make it easier for those w
 
 ## How to Import Binds/CFG using SC Launch Configurator
 
-  1. Download and install [SC Launch Configurator](https://www.luftwerft.com/)
-  2. Download the "`Sq65 Binds.profiles`" file in the repo
-  3. Open SC Launch Configurator
-  4. Launch SC, adjust any settings you prefer first (Graphics, Audio, Interface, etc.), apply and close
-  5. Reopen SC Launch Configurator and navigate to "Profile"
-  6. **BACKUP YOUR PROFILE FIRST** by clicking "Export" at the bottom (Launching SC first ensures a profile is made)
-  7. Click "Import" at the bottom
-  8. Import the updated "`Sq65 Binds.profiles`" from repo
-  9. Highlight "`Sq65 Binds.profiles`" in SC Launch Configurator and click "LIVE" button to the right (will install to latest LIVE SC folder)
-  10. Launch SC
+  1. Download and install [SC Launch Configurator](https://www.luftwerft.com/), and save `Sq65 Binds.profiles`
+  2. Open SC Launch Configurator
+  3. Launch SC, adjust any settings you prefer first (Graphics, Audio, Interface, etc.), apply and close
+  4. Reopen SC Launch Configurator and navigate to "Profile"
+  5. **BACKUP YOUR PROFILE FIRST** by clicking "Export" (Launching SC first ensures a profile is made)
+  6. Click "Import", and import the updated `Sq65 Binds.profiles` from repo
+  7. Highlight `Sq65 Binds.profiles` in SC Launch Configurator and click "LIVE" button to the right
+  8. Play SC
 
 If you choose to change binds/settings in game, feel free to update and backup your new profile in the SC Launch Configurator.
 
