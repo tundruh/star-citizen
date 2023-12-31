@@ -8,12 +8,11 @@ Most binds are left as default, with a few changes to make it easier for those w
 
   1. Download and install [SC Launch Configurator](https://www.luftwerft.com/), and save `Sq65 Binds.profiles`
   2. Open SC Launch Configurator
-  3. Launch SC, adjust any settings you prefer first (Graphics, Audio, Interface, etc.), apply and close to generate your profile
-  4. In SC Launch Configurator, go to "Profile"
-  5. **BACKUP YOUR OWN PROFILE FIRST** by clicking "Export" (Launching SC first ensures a profile is available)
-  6. Click "Import", and import the updated `Sq65 Binds.profiles` from repo
-  7. Highlight `Sq65 Binds.profiles` in SC Launch Configurator and click "LIVE" button to the right
-  8. Play SC
+  3. Launch SC to confirm your profile is generated, then close SC
+  4. In SC Launch Configurator, go to "Profile" and **BACKUP YOUR OWN PROFILE FIRST** by clicking "Export"
+  5. Click "Import", and import the updated `Sq65 Binds.profiles` from repo
+  6. Highlight `Sq65 Binds.profiles` in SC Launch Configurator and click "LIVE" button to the right
+  7. Play SC
 
 If you choose to change binds/settings in game, feel free to update and backup your new profile in the SC Launch Configurator.
 
