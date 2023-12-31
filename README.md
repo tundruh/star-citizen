@@ -6,13 +6,14 @@ Most binds are left as default, with a few changes to make it easier for those w
 
 ## How to Import Binds/CFG using SC Launch Configurator
 
-  1. Download and install [SC Launch Configurator](https://www.luftwerft.com/), and save `Sq65 Binds.profiles`
-  2. Open SC Launch Configurator
-  3. Launch SC to confirm your profile is generated, then close SC
-  4. In SC Launch Configurator, go to "Profile" and **BACKUP YOUR OWN PROFILE FIRST** by clicking "Export"
-  5. Click "Import", and import the updated `Sq65 Binds.profiles` from repo
-  6. Highlight `Sq65 Binds.profiles` in SC Launch Configurator and click "LIVE" button to the right
-  7. Play SC
+  1. Download and install [SC Launch Configurator](https://www.luftwerft.com/)
+  2. Download `Sq65 Binds.profiles` in repo
+  3. Open SC Launch Configurator
+  4. Launch Star Citizen to confirm your profile is generated, then close Star Citizen
+  5. In SC Launch Configurator, go to "Profile" and **BACKUP YOUR PROFILE FIRST** by clicking "Export"
+  6. Click "Import", and import the updated `Sq65 Binds.profiles` from repo
+  7. Highlight `Sq65 Binds.profiles` in SC Launch Configurator and click "LIVE" button to the right
+  8. Play SC
 
 If you choose to change binds/settings in game, feel free to update and backup your new profile in the SC Launch Configurator.
 
