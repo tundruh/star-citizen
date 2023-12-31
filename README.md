@@ -8,9 +8,9 @@ Most binds are left as default, with a few changes to make it easier for those w
 1. Download and install [SC Launch Configurator](https://www.luftwerft.com/)
 2. Download the "LIVE * - 65% Binds.profiles" file in the repo
 3. Open SC Launch Configurator
-4. Launch SC, adjust any settings you prefer first (Graphics, Audio, Interface, etc.)
-5. Close SC and reopen SC Launch Configurator
-6. **BACKUP YOUR GENERATED PROFILE FIRST** by clicking "Export" at the bottom (your profile will show in it's own slot, but it doesn't hurt to have a backup)
+4. Launch SC, adjust any settings you prefer first (Graphics, Audio, Interface, etc.), apply and close
+5. Reopen SC Launch Configurator and navigate to "Profile"
+6. **BACKUP YOUR PROFILE FIRST** by clicking "Export" at the bottom (Launching SC first ensures a profile is made)
 7. Click "Import" at the bottom
 8. Import the updated "LIVE * - 65% Binds.profiles" from repo
 9. Highlight "LIVE * - 65% Binds.profiles" in SC Launch Configurator and click "LIVE" button to the right (will install to latest LIVE SC folder)
