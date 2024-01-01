@@ -1,4 +1,4 @@
-# Squadron 65 - Explore the `Verse with Non-Standard Layouts
+# Squadron 65 - Explore the 'Verse with Non-Standard Layouts
 
 This is my personal CFG/binds for using a 65% keyboard and mouse with 4 side buttons.
 
