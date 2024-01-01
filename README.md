@@ -20,6 +20,7 @@ If you choose to change binds/settings in game, feel free to update and backup y
 ## Changes
 
   ### Flight - Power Triangle Management
+  Based on Logitech GPW, but can be remapped to your mouse buttons if need be.
   
   - `Mouse Button 5` Weapon Power (Tap to +, Hold to Max)
   - `Mouse Button 4` Shield Power (Tap to +, Hold to Max)
@@ -27,9 +28,10 @@ If you choose to change binds/settings in game, feel free to update and backup y
   - `F5` Reset Power
 
   ### Camera
+  Swapped Freelook and Third Person binds, as function keys are more difficult/cumbersome to reach with 65% keyboards and below.
   
-  - `Z` Third Person (Default is F4) - Swapped as function keys can be difficult to navigate on smaller layouts and freelook is used less often (for me at least)
-  - `F4` Freelook (Default is Z) - Familiar as Camera key, easier to reach and hold as a modifier for Advanced Camera Controls
+  - `Z` Third Person
+  - `F4` Freelook
 
   ### Advanced Camera Controls
   
